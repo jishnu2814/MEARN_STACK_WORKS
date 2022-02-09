@@ -1,0 +1,16 @@
+#h1{
+    font-family: 'Shizuru', cursive;
+    color: crimson;
+    font-style: italic;
+    font-weight: bold;
+}
+#h2{
+    font-family: 'Pushster', cursive;
+    color: blue;
+    font-style: italic;
+}
+p{
+    font-family: 'Roboto Mono', monospace;
+    font-size: 30px;
+    font-weight: 900;
+}

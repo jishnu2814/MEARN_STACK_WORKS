@@ -1,0 +1,26 @@
+div{
+    width: 50%;
+    height: 300px;
+    background-color: black;
+    padding-left: 50px;
+    padding-top: 100px;
+}
+#p1{
+    color: blanchedalmond;
+}
+#l2{
+    width: 50%;
+    height: 300px;
+    background-color: black;
+} 
+#p2{
+    color: brown;
+}
+#h1{
+    text-align: center;
+    color: red;
+}
+#h2{
+    text-align: center;
+    color: powderblue;
+}

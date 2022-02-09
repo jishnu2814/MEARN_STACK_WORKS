@@ -1,0 +1,38 @@
+.head{
+    background-image: url("./image/free\ fire\ cover.jpg");
+    background-size: cover;
+    height: 50rem;   
+}
+.logo{
+    padding-left: 13rem;
+    padding-top: 25rem;    
+}
+.play{
+    padding-left: 27.5rem;
+    padding-top: 3rem;
+}
+.app{
+    padding-top: 3rem;
+}
+.down{
+    padding-left: 42rem;
+    padding-top: 3rem;
+}
+.world{
+    margin-left: 40rem;
+    margin-top: .6rem;
+}
+.upd{
+    padding-left: 40rem;
+
+}
+.p1{
+    margin-left: 40rem;
+    margin-bottom: 13rem;
+}
+.goto{
+    text-decoration: none;
+    width: 15rem;
+    height: 6rem;
+    font-size: x-large;
+}
